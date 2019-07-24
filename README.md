@@ -6,4 +6,5 @@ The files in this repository are:
 3. POSTER - This is the poster which was made as a part of the presentation of the project
 4. CODE - Python code in a Jupyter Notebook
 5. FLOW-DAIGRAM - This is an image depecting the flow of questions according to the previous answer
+
 This code is an adaptation of the Transfer Learning tutorial on the PyTorch website. As I could not get my hands on the test-lables dataset, I set aside a part of the dataset provided for training to test the model trained. 

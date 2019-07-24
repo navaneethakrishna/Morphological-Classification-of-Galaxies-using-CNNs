@@ -1,0 +1,5 @@
+Studying galaxies is of atmost importance to understand the origon and fate of the universe. Hence, a large number of images of galaxies were taken as a part of the Sloan Digital Sky Survey (SDSS). This is an ongoing survey to map the universe. (https://www.sdss.org/) 
+The obtained database was too volumnous for professional astronomers to classify themselves. So, the database was made public and help from citizen astronomers (anyone with an internet connection and the interest of course) was enlisted. An image was displayed and a series of multiple choice questions were asked on each of them. The answer to the present question determined the next question displayed. To make sure individual bias is eliminated, each image was shown to different participants for classification.    
+There were 11 questions which led to 32 possible answers. 
+The Kaggle challenge was to predict the probabilites of the 32 answers given the image of a galaxy. 
+The training data was a set of 61578 jpg images with the probability vectors. The objective of the challenge is to predict the vectors for a test set of 79975 images 
